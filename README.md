@@ -38,7 +38,7 @@ PT 일정 등을 기록하여 더욱 체계적인 운동 시스템과 효율적�
  - Java 캘릭더 기능을 통해 달력의 날짜를 클릭하면 그 날자에 해당하는 일정을 검색함
 
 ## 클래스 다이어그램
-<img src="https://github.com/user-attachments/assets/72f49385-710c-4201-8fb8-429b81fcacb1" width="600">
+<img src="https://github.com/user-attachments/assets/72f49385-710c-4201-8fb8-429b81fcacb1" width="750">
 
 ## 🖥️ 화면 구성
 
