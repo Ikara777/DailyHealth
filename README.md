@@ -67,10 +67,10 @@ PT 일정 등을 기록하여 더욱 체계적인 운동 시스템과 효율적�
 <table>
   <tr>
     <th>켈린더 검색</th>
-    <th>캐시 잔액조회</th>
+    <th>트레이너 추가</th>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/849729f8-53c7-43ae-b90f-fecd6d63d15a" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/561b8f7b-d1ae-4a32-847e-e01aa09dbaeb" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/7118c07f-455d-4584-bbe3-7ec0bd285ae8" width="400"></td>
   </tr>
 </table>
